@@ -1,7 +1,7 @@
 # Terms and Conditions
 # Welcome to TurboPluse!
 
-These terms and conditions outline the rules and regulations for the use of TurboPluse's Website, located at https://github.com/FAKE-CARD/TOS-turbopluse/blob/main/README.md.
+These terms and conditions outline the rules and regulations for the use of TurboPluse's Website, located at [Here](https://github.com/FAKE-CARD/TOS-turbopluse/tree/main).
 
 # By accessing this website we assume you accept these terms and conditions. Do not continue to use TurboPluse if you do not agree to take all of the terms and conditions stated on this page.
 
